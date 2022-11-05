@@ -1,0 +1,13 @@
+
+
+.Mess-header {
+    background-color: #755e74;
+    min-height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+}
